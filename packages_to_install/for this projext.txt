@@ -1,0 +1,6 @@
+npm i react-responsive-carousel
+npm i react-icons
+npm i react-router-hash-link
+npm i sass
+npm i react-router-dom
+npm i -g vercel
