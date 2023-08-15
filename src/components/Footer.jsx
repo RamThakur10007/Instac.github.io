@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return <footer>
     <div>
-    <h1>INSAC</h1>
+    <h1>INSTAC</h1>
     <p>
         @all right reserved
     </p>
